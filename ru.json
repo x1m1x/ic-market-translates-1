@@ -741,5 +741,13 @@
     "enum_user_types_builder": "Застройщик",
     "enum_user_types_administrator": "Администратор",
     "enum_user_types_moderator": "Модератор",
-    "enum_user_types_exclusive_builder": "Эксклюзивный застройщик"
+    "enum_user_types_exclusive_builder": "Эксклюзивный застройщик",
+    "reference_country_portugal": "",
+    "reference_country_brazil": "",
+    "reference_city_lisbon": "",
+    "reference_city_porto": "",
+    "reference_city_algarve": "",
+    "reference_city_madeira": "",
+    "reference_city_sao_paulo": "",
+    "reference_city_campinas": ""
 }
